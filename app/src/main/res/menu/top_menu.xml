@@ -1,0 +1,51 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_save"
+        android:orderInCategory="98"
+        android:title="@string/save_top_bar" />
+
+    <item
+        android:id="@+id/action_open"
+        android:orderInCategory="100"
+        android:title="@string/gallery_top_bar"
+         />
+
+    <item
+        android:id="@+id/take_pic"
+        android:orderInCategory="100"
+        android:title="@string/camera_top_bar"
+        android:icon="@drawable/ic_baseline_white_camera_alt_24"
+        android:onClick="onClickListenerTakePhotoBtn"
+         />
+
+    <item
+        android:id="@+id/action_search"
+        android:orderInCategory="97"
+        android:title="@string/search_top_bar"
+        android:icon="@drawable/ic_white_search_24"
+        android:hint="@string/search_hint"
+        app:showAsAction="always|collapseActionView"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        >
+
+        </item>
+    <item
+        android:id="@+id/share_btn"
+        android:orderInCategory="98"
+        android:title="@string/share_top_bar"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_white_share_24"
+        android:onClick="onClickShareBtn"
+        />
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="101"
+        android:title="@string/about_top_bar"
+        android:icon="@drawable/ic_white_share_24"/>
+<!--        android:onClick="onClickShareBtn"-->
+
+</menu>

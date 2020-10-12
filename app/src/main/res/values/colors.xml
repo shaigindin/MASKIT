@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="primaryText">#212121</color>
+    <color name="colorAccent">#009688</color>
+    <color name="color_option_menu">#FF3990</color>
+    <color name="filter_label_normal">#8A8889</color>
+    <color name="filter_label_selected">#221F20</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dark_blue_gray">#263238</color>
+    <color name="accentColor">#DD2C00</color>
+    <color name="transparent">#00ffffff</color>
+</resources>

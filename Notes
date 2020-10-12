@@ -1,0 +1,3 @@
+There is still the problem I showed you earlier,
+I belive that removign StartActivity and instead using main acitivty (with view.gone and view.visible) should solve this problem.
+(I tried to fix the bug with manipulating the activity stack - didn't find solution on this path)

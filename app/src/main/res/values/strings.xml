@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MASKiT</string>
+    <string name="activity_title_main">Mask</string>
+    <string name="action_settings">Settings</string>
+    <string name="filters">FILTERS</string>
+    <string name="edit">EDIT</string>
+
+    <string name="lbl_brightness">BRIGHTNESS</string>
+    <string name="lbl_contrast">CONTRAST</string>
+    <string name="lbl_saturation">SATURATION</string>
+    <string name="tab_filters">FILTERS</string>
+    <string name="tab_edit">EDIT</string>
+
+
+    <string name="roboto_medium">sans-serif-medium</string>
+    <string name="filter_normal">Normal</string>
+    <string name="save_top_bar">SAVE</string>
+    <string name="action_open">OPEN</string>
+    <string name="picture">picture</string>
+    <string name="camera_top_bar">Camera</string>
+    <string name="gallery_top_bar">Gallery</string>
+    <string name="textview">MASKiT App is a raster graphics editor app developed by Shai Gindin and Ori Frenkel.\n
+        The app has been designed to promote privacy among users by enabling them to cover unwanted faces in the images.\n
+        The app helps users to avoid sharing unnecessary personal data and guarantee maximum security.\n
+
+The app main advantages are:\n
+ 1.	It’s fast,  since processing happens on the device, there is no network latency.\n
+ 2.	Works offline - you can rely on our app even when the network is spotty or you are in  area without connectivity.\n
+ 3. Privacy is retained: since all processing is performed locally, there is no need to send sensitive user data over the network to a server.\n
+\n\n
+FuN FacT : \n
+The word MASKiT(״משכית״) in Hebrew means drawing or a picture but also an ornament</string>
+    <string name="search_top_bar">Search</string>
+    <string name="share_top_bar">Share</string>
+    <string name="about_top_bar">About</string>
+    <string name="search">search</string>
+    <string name="search_hint">Search for filter</string>
+    <string name="switch_btn_instruction">Show Instruction Upon Launch:</string>
+
+</resources>

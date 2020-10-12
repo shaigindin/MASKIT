@@ -1,0 +1,4 @@
+Project Name : MaskIt
+developers : Ori Frenkel, 314643164, Ori.Frenkel@mail.huji.ac.il
+             Shai Gindin, 301315537, Shai.Gindin@mail.huji.ac.il
+App version 1.0.0

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_save_bottom"
+        android:orderInCategory="100"
+        android:title="@string/save_top_bar"
+        android:icon="@drawable/ic_baseline_white_save_alt_24"
+        app:showAsAction="always"
+        android:onClick="onClickSaveBtn"/>
+
+    <item
+        android:id="@+id/action_open_bottom"
+        android:orderInCategory="99"
+        android:title="@string/gallery_top_bar"
+        android:icon="@drawable/ic_baseline_add_photo_gallery_white_24"
+        android:onClick="onClickGalleryBtn"
+        app:showAsAction="always"
+        />
+
+<!--    <item-->
+<!--        android:id="@+id/action_open1"-->
+<!--        android:orderInCategory="98"-->
+<!--        app:showAsAction="always"-->
+<!--        android:title=""-->
+<!--        />-->
+
+    <item
+        android:id="@+id/empty"
+        android:orderInCategory="99"
+        app:showAsAction="always"
+        android:checkable="false"
+        android:title=""
+        />
+
+<!--    <item-->
+<!--        android:id="@+id/share_btn_bottom"-->
+<!--        android:orderInCategory="96"-->
+<!--        android:title="Share"-->
+<!--        android:contentDescription="Share"-->
+<!--        android:icon="@drawable/ic_white_share_24"-->
+<!--        app:showAsAction="always"-->
+<!--        android:onClick="onClickShareBtn"-->
+<!--        />-->
+
+
+</menu>
