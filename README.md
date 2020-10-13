@@ -20,12 +20,11 @@ Note: this app is a project made as a part of Android course in The Hebrew Unive
 
 
 # Preview
-<table BORDER=10 BORDERCOLOR=RED><tr><td>
-   <img style="border:5px solid black;" src="https://github.com/shaigindin/MASKIT/blob/main/Resources/pic2.JPG" width="400"  alt="Before"/>
-</td></tr></table>
 
+<kbd>
+  <img align="left" src="https://github.com/shaigindin/MASKIT/blob/main/Resources/pic2.JPG" width="400" />
+</kbd>
 
-
-<table BORDER=10 BORDERCOLOR=RED><tr><td>
-  <img src="https://github.com/shaigindin/MASKIT/blob/main/Resources/pic7.JPG" width="400" />
-</td></tr></table>
+<kbd>
+  <img align="right" src="https://github.com/shaigindin/MASKIT/blob/main/Resources/pic5.JPG" width="400" />
+</kbd>
